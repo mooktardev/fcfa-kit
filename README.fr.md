@@ -1,6 +1,6 @@
 # fcfa-kit
 
-[![CI](https://github.com/YOUR-USERNAME/fcfa-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/fcfa-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/mooktardev/fcfa-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/mooktardev/fcfa-kit/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/fcfa-kit)](https://www.npmjs.com/package/fcfa-kit)
 [![licence](https://img.shields.io/npm/l/fcfa-kit)](./LICENSE)
 
