@@ -20,12 +20,12 @@
   "author": "Mooktar",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR-USERNAME/fcfa-kit.git"
+    "url": "git+https://github.com/mooktardev/fcfa-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR-USERNAME/fcfa-kit/issues"
+    "url": "https://github.com/mooktardev/fcfa-kit/issues"
   },
-  "homepage": "https://github.com/YOUR-USERNAME/fcfa-kit#readme",
+  "homepage": "https://github.com/mooktardev/fcfa-kit#readme",
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.cjs",
