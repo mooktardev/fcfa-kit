@@ -1,0 +1,350 @@
+[
+  {
+    "id": "djerem",
+    "name": "Djérem",
+    "regionCode": "AD",
+    "capital": "Tibati"
+  },
+  {
+    "id": "faro-et-deo",
+    "name": "Faro-et-Déo",
+    "regionCode": "AD",
+    "capital": "Tignère"
+  },
+  {
+    "id": "mayo-banyo",
+    "name": "Mayo-Banyo",
+    "regionCode": "AD",
+    "capital": "Banyo"
+  },
+  {
+    "id": "mbere",
+    "name": "Mbéré",
+    "regionCode": "AD",
+    "capital": "Meiganga"
+  },
+  {
+    "id": "vina",
+    "name": "Vina",
+    "regionCode": "AD",
+    "capital": "Ngaoundéré"
+  },
+  {
+    "id": "haute-sanaga",
+    "name": "Haute-Sanaga",
+    "regionCode": "CE",
+    "capital": "Nanga-Eboko"
+  },
+  {
+    "id": "lekie",
+    "name": "Lekié",
+    "regionCode": "CE",
+    "capital": "Monatélé"
+  },
+  {
+    "id": "mbam-et-inoubou",
+    "name": "Mbam-et-Inoubou",
+    "regionCode": "CE",
+    "capital": "Bafia"
+  },
+  {
+    "id": "mbam-et-kim",
+    "name": "Mbam-et-Kim",
+    "regionCode": "CE",
+    "capital": "Ntui"
+  },
+  {
+    "id": "mefou-et-afamba",
+    "name": "Méfou-et-Afamba",
+    "regionCode": "CE",
+    "capital": "Mfou"
+  },
+  {
+    "id": "mefou-et-akono",
+    "name": "Méfou-et-Akono",
+    "regionCode": "CE",
+    "capital": "Ngoumou"
+  },
+  {
+    "id": "mfoundi",
+    "name": "Mfoundi",
+    "regionCode": "CE",
+    "capital": "Yaoundé"
+  },
+  {
+    "id": "nyong-et-kelle",
+    "name": "Nyong-et-Kéllé",
+    "regionCode": "CE",
+    "capital": "Éséka"
+  },
+  {
+    "id": "nyong-et-mfoumou",
+    "name": "Nyong-et-Mfoumou",
+    "regionCode": "CE",
+    "capital": "Akonolinga"
+  },
+  {
+    "id": "nyong-et-so-o",
+    "name": "Nyong-et-So'o",
+    "regionCode": "CE",
+    "capital": "Mbalmayo"
+  },
+  {
+    "id": "boumba-et-ngoko",
+    "name": "Boumba-et-Ngoko",
+    "regionCode": "ES",
+    "capital": "Yokadouma"
+  },
+  {
+    "id": "haut-nyong",
+    "name": "Haut-Nyong",
+    "regionCode": "ES",
+    "capital": "Abong-Mbang"
+  },
+  {
+    "id": "kadey",
+    "name": "Kadey",
+    "regionCode": "ES",
+    "capital": "Batouri"
+  },
+  {
+    "id": "lom-et-djerem",
+    "name": "Lom-et-Djérem",
+    "regionCode": "ES",
+    "capital": "Bertoua"
+  },
+  {
+    "id": "diamare",
+    "name": "Diamaré",
+    "regionCode": "EN",
+    "capital": "Maroua"
+  },
+  {
+    "id": "logone-et-chari",
+    "name": "Logone-et-Chari",
+    "regionCode": "EN",
+    "capital": "Kousséri"
+  },
+  {
+    "id": "mayo-danay",
+    "name": "Mayo-Danay",
+    "regionCode": "EN",
+    "capital": "Yagoua"
+  },
+  {
+    "id": "mayo-kani",
+    "name": "Mayo-Kani",
+    "regionCode": "EN",
+    "capital": "Kaélé"
+  },
+  {
+    "id": "mayo-sava",
+    "name": "Mayo-Sava",
+    "regionCode": "EN",
+    "capital": "Mora"
+  },
+  {
+    "id": "mayo-tsanaga",
+    "name": "Mayo-Tsanaga",
+    "regionCode": "EN",
+    "capital": "Mokolo"
+  },
+  {
+    "id": "moungo",
+    "name": "Moungo",
+    "regionCode": "LT",
+    "capital": "Nkongsamba"
+  },
+  {
+    "id": "nkam",
+    "name": "Nkam",
+    "regionCode": "LT",
+    "capital": "Yabassi"
+  },
+  {
+    "id": "sanaga-maritime",
+    "name": "Sanaga-Maritime",
+    "regionCode": "LT",
+    "capital": "Édéa"
+  },
+  {
+    "id": "wouri",
+    "name": "Wouri",
+    "regionCode": "LT",
+    "capital": "Douala"
+  },
+  {
+    "id": "benoue",
+    "name": "Bénoué",
+    "regionCode": "NO",
+    "capital": "Garoua"
+  },
+  {
+    "id": "faro",
+    "name": "Faro",
+    "regionCode": "NO",
+    "capital": "Poli"
+  },
+  {
+    "id": "mayo-louti",
+    "name": "Mayo-Louti",
+    "regionCode": "NO",
+    "capital": "Guider"
+  },
+  {
+    "id": "mayo-rey",
+    "name": "Mayo-Rey",
+    "regionCode": "NO",
+    "capital": "Tcholliré"
+  },
+  {
+    "id": "boyo",
+    "name": "Boyo",
+    "regionCode": "NW",
+    "capital": "Fundong"
+  },
+  {
+    "id": "bui",
+    "name": "Bui",
+    "regionCode": "NW",
+    "capital": "Kumbo"
+  },
+  {
+    "id": "donga-mantung",
+    "name": "Donga-Mantung",
+    "regionCode": "NW",
+    "capital": "Nkambé"
+  },
+  {
+    "id": "menchum",
+    "name": "Menchum",
+    "regionCode": "NW",
+    "capital": "Wum"
+  },
+  {
+    "id": "mezam",
+    "name": "Mezam",
+    "regionCode": "NW",
+    "capital": "Bamenda"
+  },
+  {
+    "id": "momo",
+    "name": "Momo",
+    "regionCode": "NW",
+    "capital": "Mbengwi"
+  },
+  {
+    "id": "ngo-ketunjia",
+    "name": "Ngo-Ketunjia",
+    "regionCode": "NW",
+    "capital": "Ndop"
+  },
+  {
+    "id": "bamboutos",
+    "name": "Bamboutos",
+    "regionCode": "OU",
+    "capital": "Mbouda"
+  },
+  {
+    "id": "haut-nkam",
+    "name": "Haut-Nkam",
+    "regionCode": "OU",
+    "capital": "Bafang"
+  },
+  {
+    "id": "hauts-plateaux",
+    "name": "Hauts-Plateaux",
+    "regionCode": "OU",
+    "capital": "Baham"
+  },
+  {
+    "id": "koung-khi",
+    "name": "Koung-Khi",
+    "regionCode": "OU",
+    "capital": "Bandjoun"
+  },
+  {
+    "id": "menoua",
+    "name": "Menoua",
+    "regionCode": "OU",
+    "capital": "Dschang"
+  },
+  {
+    "id": "mifi",
+    "name": "Mifi",
+    "regionCode": "OU",
+    "capital": "Bafoussam"
+  },
+  {
+    "id": "nde",
+    "name": "Ndé",
+    "regionCode": "OU",
+    "capital": "Bangangté"
+  },
+  {
+    "id": "noun",
+    "name": "Noun",
+    "regionCode": "OU",
+    "capital": "Foumban"
+  },
+  {
+    "id": "dja-et-lobo",
+    "name": "Dja-et-Lobo",
+    "regionCode": "SU",
+    "capital": "Sangmélima"
+  },
+  {
+    "id": "mvila",
+    "name": "Mvila",
+    "regionCode": "SU",
+    "capital": "Ebolowa"
+  },
+  {
+    "id": "ocean",
+    "name": "Océan",
+    "regionCode": "SU",
+    "capital": "Kribi"
+  },
+  {
+    "id": "vallee-du-ntem",
+    "name": "Vallée-du-Ntem",
+    "regionCode": "SU",
+    "capital": "Ambam"
+  },
+  {
+    "id": "fako",
+    "name": "Fako",
+    "regionCode": "SW",
+    "capital": "Limbé"
+  },
+  {
+    "id": "koupe-manengouba",
+    "name": "Koupé-Manengouba",
+    "regionCode": "SW",
+    "capital": "Bangem"
+  },
+  {
+    "id": "lebialem",
+    "name": "Lebialem",
+    "regionCode": "SW",
+    "capital": "Menji"
+  },
+  {
+    "id": "manyu",
+    "name": "Manyu",
+    "regionCode": "SW",
+    "capital": "Mamfé"
+  },
+  {
+    "id": "meme",
+    "name": "Meme",
+    "regionCode": "SW",
+    "capital": "Kumba"
+  },
+  {
+    "id": "ndian",
+    "name": "Ndian",
+    "regionCode": "SW",
+    "capital": "Mundemba"
+  }
+]

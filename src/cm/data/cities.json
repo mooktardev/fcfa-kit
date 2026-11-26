@@ -1,0 +1,506 @@
+[
+  {
+    "id": "abong-mbang",
+    "name": "Abong-Mbang",
+    "departmentId": "haut-nyong",
+    "regionCode": "ES",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "akonolinga",
+    "name": "Akonolinga",
+    "departmentId": "nyong-et-mfoumou",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "ambam",
+    "name": "Ambam",
+    "departmentId": "vallee-du-ntem",
+    "regionCode": "SU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bafang",
+    "name": "Bafang",
+    "departmentId": "haut-nkam",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bafia",
+    "name": "Bafia",
+    "departmentId": "mbam-et-inoubou",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bafoussam",
+    "name": "Bafoussam",
+    "departmentId": "mifi",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "baham",
+    "name": "Baham",
+    "departmentId": "hauts-plateaux",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bamenda",
+    "name": "Bamenda",
+    "departmentId": "mezam",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "bandjoun",
+    "name": "Bandjoun",
+    "departmentId": "koung-khi",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bangangte",
+    "name": "Bangangté",
+    "departmentId": "nde",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bangem",
+    "name": "Bangem",
+    "departmentId": "koupe-manengouba",
+    "regionCode": "SW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "banyo",
+    "name": "Banyo",
+    "departmentId": "mayo-banyo",
+    "regionCode": "AD",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "batouri",
+    "name": "Batouri",
+    "departmentId": "kadey",
+    "regionCode": "ES",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "bertoua",
+    "name": "Bertoua",
+    "departmentId": "lom-et-djerem",
+    "regionCode": "ES",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "buea",
+    "name": "Buéa",
+    "departmentId": "fako",
+    "regionCode": "SW",
+    "isDepartmentCapital": false,
+    "isRegionCapital": true
+  },
+  {
+    "id": "douala",
+    "name": "Douala",
+    "departmentId": "wouri",
+    "regionCode": "LT",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "dschang",
+    "name": "Dschang",
+    "departmentId": "menoua",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "ebolowa",
+    "name": "Ebolowa",
+    "departmentId": "mvila",
+    "regionCode": "SU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "edea",
+    "name": "Édéa",
+    "departmentId": "sanaga-maritime",
+    "regionCode": "LT",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "eseka",
+    "name": "Éséka",
+    "departmentId": "nyong-et-kelle",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "foumban",
+    "name": "Foumban",
+    "departmentId": "noun",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "fundong",
+    "name": "Fundong",
+    "departmentId": "boyo",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "garoua",
+    "name": "Garoua",
+    "departmentId": "benoue",
+    "regionCode": "NO",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "guider",
+    "name": "Guider",
+    "departmentId": "mayo-louti",
+    "regionCode": "NO",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "kaele",
+    "name": "Kaélé",
+    "departmentId": "mayo-kani",
+    "regionCode": "EN",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "kousseri",
+    "name": "Kousséri",
+    "departmentId": "logone-et-chari",
+    "regionCode": "EN",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "kribi",
+    "name": "Kribi",
+    "departmentId": "ocean",
+    "regionCode": "SU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "kumba",
+    "name": "Kumba",
+    "departmentId": "meme",
+    "regionCode": "SW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "kumbo",
+    "name": "Kumbo",
+    "departmentId": "bui",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "limbe",
+    "name": "Limbé",
+    "departmentId": "fako",
+    "regionCode": "SW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "loum",
+    "name": "Loum",
+    "departmentId": "moungo",
+    "regionCode": "LT",
+    "isDepartmentCapital": false,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mamfe",
+    "name": "Mamfé",
+    "departmentId": "manyu",
+    "regionCode": "SW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "maroua",
+    "name": "Maroua",
+    "departmentId": "diamare",
+    "regionCode": "EN",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "mbalmayo",
+    "name": "Mbalmayo",
+    "departmentId": "nyong-et-so-o",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mbanga",
+    "name": "Mbanga",
+    "departmentId": "moungo",
+    "regionCode": "LT",
+    "isDepartmentCapital": false,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mbengwi",
+    "name": "Mbengwi",
+    "departmentId": "momo",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mbouda",
+    "name": "Mbouda",
+    "departmentId": "bamboutos",
+    "regionCode": "OU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "meiganga",
+    "name": "Meiganga",
+    "departmentId": "mbere",
+    "regionCode": "AD",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "menji",
+    "name": "Menji",
+    "departmentId": "lebialem",
+    "regionCode": "SW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mfou",
+    "name": "Mfou",
+    "departmentId": "mefou-et-afamba",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mokolo",
+    "name": "Mokolo",
+    "departmentId": "mayo-tsanaga",
+    "regionCode": "EN",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "monatele",
+    "name": "Monatélé",
+    "departmentId": "lekie",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mora",
+    "name": "Mora",
+    "departmentId": "mayo-sava",
+    "regionCode": "EN",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "mundemba",
+    "name": "Mundemba",
+    "departmentId": "ndian",
+    "regionCode": "SW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "nanga-eboko",
+    "name": "Nanga-Eboko",
+    "departmentId": "haute-sanaga",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "ndop",
+    "name": "Ndop",
+    "departmentId": "ngo-ketunjia",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "ngaoundere",
+    "name": "Ngaoundéré",
+    "departmentId": "vina",
+    "regionCode": "AD",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "ngoumou",
+    "name": "Ngoumou",
+    "departmentId": "mefou-et-akono",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "nkambe",
+    "name": "Nkambé",
+    "departmentId": "donga-mantung",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "nkongsamba",
+    "name": "Nkongsamba",
+    "departmentId": "moungo",
+    "regionCode": "LT",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "ntui",
+    "name": "Ntui",
+    "departmentId": "mbam-et-kim",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "obala",
+    "name": "Obala",
+    "departmentId": "lekie",
+    "regionCode": "CE",
+    "isDepartmentCapital": false,
+    "isRegionCapital": false
+  },
+  {
+    "id": "poli",
+    "name": "Poli",
+    "departmentId": "faro",
+    "regionCode": "NO",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "sangmelima",
+    "name": "Sangmélima",
+    "departmentId": "dja-et-lobo",
+    "regionCode": "SU",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "tchollire",
+    "name": "Tcholliré",
+    "departmentId": "mayo-rey",
+    "regionCode": "NO",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "tibati",
+    "name": "Tibati",
+    "departmentId": "djerem",
+    "regionCode": "AD",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "tignere",
+    "name": "Tignère",
+    "departmentId": "faro-et-deo",
+    "regionCode": "AD",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "tiko",
+    "name": "Tiko",
+    "departmentId": "fako",
+    "regionCode": "SW",
+    "isDepartmentCapital": false,
+    "isRegionCapital": false
+  },
+  {
+    "id": "wum",
+    "name": "Wum",
+    "departmentId": "menchum",
+    "regionCode": "NW",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "yabassi",
+    "name": "Yabassi",
+    "departmentId": "nkam",
+    "regionCode": "LT",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "yagoua",
+    "name": "Yagoua",
+    "departmentId": "mayo-danay",
+    "regionCode": "EN",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  },
+  {
+    "id": "yaounde",
+    "name": "Yaoundé",
+    "departmentId": "mfoundi",
+    "regionCode": "CE",
+    "isDepartmentCapital": true,
+    "isRegionCapital": true
+  },
+  {
+    "id": "yokadouma",
+    "name": "Yokadouma",
+    "departmentId": "boumba-et-ngoko",
+    "regionCode": "ES",
+    "isDepartmentCapital": true,
+    "isRegionCapital": false
+  }
+]

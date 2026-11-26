@@ -1,0 +1,72 @@
+[
+  {
+    "code": "AD",
+    "iso": "CM-AD",
+    "name": "Adamaoua",
+    "nameEn": "Adamawa",
+    "capital": "Ngaoundéré"
+  },
+  {
+    "code": "CE",
+    "iso": "CM-CE",
+    "name": "Centre",
+    "nameEn": "Centre",
+    "capital": "Yaoundé"
+  },
+  {
+    "code": "ES",
+    "iso": "CM-ES",
+    "name": "Est",
+    "nameEn": "East",
+    "capital": "Bertoua"
+  },
+  {
+    "code": "EN",
+    "iso": "CM-EN",
+    "name": "Extrême-Nord",
+    "nameEn": "Far North",
+    "capital": "Maroua"
+  },
+  {
+    "code": "LT",
+    "iso": "CM-LT",
+    "name": "Littoral",
+    "nameEn": "Littoral",
+    "capital": "Douala"
+  },
+  {
+    "code": "NO",
+    "iso": "CM-NO",
+    "name": "Nord",
+    "nameEn": "North",
+    "capital": "Garoua"
+  },
+  {
+    "code": "NW",
+    "iso": "CM-NW",
+    "name": "Nord-Ouest",
+    "nameEn": "North-West",
+    "capital": "Bamenda"
+  },
+  {
+    "code": "OU",
+    "iso": "CM-OU",
+    "name": "Ouest",
+    "nameEn": "West",
+    "capital": "Bafoussam"
+  },
+  {
+    "code": "SU",
+    "iso": "CM-SU",
+    "name": "Sud",
+    "nameEn": "South",
+    "capital": "Ebolowa"
+  },
+  {
+    "code": "SW",
+    "iso": "CM-SW",
+    "name": "Sud-Ouest",
+    "nameEn": "South-West",
+    "capital": "Buéa"
+  }
+]
